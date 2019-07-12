@@ -1,8 +1,10 @@
-# stage-2-es6-for-everyone
-
 ## Instalation
 
+`sudo npm -g typescript`
+
 `npm install`
+
+`tsc`
 
 `npm run build`
 
